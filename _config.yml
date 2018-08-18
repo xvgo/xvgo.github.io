@@ -1,12 +1,12 @@
 # Site settings
-name: 董小姐
-location: 大连
-company: IBM
-position: Java开发工程师
-github: https://github.com/
-facebook: https://www.facebook.com/
+name: ehlxr
+location: 北京
+company: 新奥集团来康科技
+position: Java 高级工程师
+github: https://github.com/ehlxr
+twitter: https://www.twitter.com/ehlxr
 phone: 1580424XXXX
-email: xxxx@xxx.com
+email: xxxx@gmail.com
 
 baseurl: ""
 
